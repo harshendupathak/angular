@@ -1,0 +1,17 @@
+[
+  {
+    "name": 1,
+    "genre": "Drama/Romance",
+    "cast": "Russel Crow,Jennifer Conelly,Ron Howard"
+  },
+  {
+    "name": "Seven",
+    "genre": 2,
+    "cast": "Brad Pitt,Morgan Freeman,Kevin Spacy"
+  },
+  {
+    "name": 3,
+    "genre": "Thriller/Mystery",
+    "cast": "Leonardo di Caprio,Mark Ruffalo,Ben Kingsley"
+  }  
+]
